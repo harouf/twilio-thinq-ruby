@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Twilio Wrapper Library For thinQ LCR integration.}
   spec.description   = %q{Twilio Wrapper Library is just written for the purpose to bring a new level of ease to the developers who deal with Twilio integration with [thinQ LCR](http://www.thinq.com/lcr/) system.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/harouf/twilio-thinq-ruby"
   spec.license       = "MIT"
 
 
