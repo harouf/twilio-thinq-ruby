@@ -39,7 +39,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, rbenv: 2.2.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.10.5, rbenv: 2.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.2.5, rbenv: 2.2.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.4.2, rbenv: 2.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.3.0, rbenv: 2.2.0) [gem]" level="application" />
   </component>
 </module>
